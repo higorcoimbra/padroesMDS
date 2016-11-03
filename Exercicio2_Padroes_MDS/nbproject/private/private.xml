@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/higor/Exercicio2_Padroes_MDS/src/TesteState/Reparo.java</file>
+            <file>file:/home/higor/Exercicio2_Padroes_MDS/src/TesteState/EstadoOS.java</file>
+            <file>file:/home/higor/Exercicio2_Padroes_MDS/src/TesteState/TestState.java</file>
+            <file>file:/home/higor/Exercicio2_Padroes_MDS/src/TesteState/Finalizada.java</file>
+            <file>file:/home/higor/Exercicio2_Padroes_MDS/src/TesteState/Aberta.java</file>
+            <file>file:/home/higor/Exercicio2_Padroes_MDS/src/TesteState/OS.java</file>
+            <file>file:/home/higor/Exercicio2_Padroes_MDS/src/TesteState/Diagnostico.java</file>
+            <file>file:/home/higor/Exercicio2_Padroes_MDS/src/TesteState/Cancelada.java</file>
+        </group>
+    </open-files>
+</project-private>
